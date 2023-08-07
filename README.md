@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm Innopolis University's Student</h3>
 
-- 😄 19 y.o
+- 😄 20 y.o
 - 🔭 I’m currently working with my Projects
 - 🌱 I’m currently learning Swift
 
